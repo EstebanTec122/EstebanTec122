@@ -2,42 +2,62 @@
 ![Purple Yellow Green Magenta Loud and Proud Gaming Twitch Panel](https://github.com/user-attachments/assets/fc8462c9-15f0-482a-9783-06becb4e404e)
 
 
-Hello there, I'm Esteban Tec! I am currently completing my Bachelors in Computer Science. And when I am not working, you'll find me reading a sci-fi novel.
+Hello there, I'm Esteban Tec! "I am passionate about Artificial Intelligence, IT Auditing, and developing technology solutions applied to business. Currently, I focus on creating tools that optimize commercial processes and enhance information security."
 
-## Currently I'm:
+### 🛠️ Technologies & Tools
 
-- Working on several AI/ML projects
-- Competitve Programming in JS, Python and C++
-- Starting UI/UX
-- Learning App Development
+* **Languages:** PHP, Python, JavaScript, SQL.
+* **Frameworks & Styling:** Laravel, Tailwind CSS.
+* **Databases:** MySQL.
+* **Specialties:** Software Development (POS), IT Systems Auditing, Cybersecurity.
+* **Interests:** AI Implementation and Business Administration.
 
-
-## Languages I use:
-
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-
-## Technologies I know:
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/-Electron-000000?style=flat&logo=Electron&logoColor=FFFFFF)
+---
 
 
+### 🛠️ Languages & Frameworks
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=bhaveshlohana&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshlohana&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-----
-Credit: [bhaveshlohana](https://github.com/bhaveshlohana)
+### 🗄️ Databases & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+### 💼 Experience
+
+#### **DocTime** | *Technology Solutions Developer*
+> Contributed to the design and architecture of digital tools for the healthcare sector, focusing on workflow optimization and secure data management.
+
+#### **CFE (Federal Electricity Commission)** | *IT Support & Management*
+> Collaborated within the technical department to ensure the continuity of digital services and supported the management of critical IT infrastructure.
+
+---
+
+### 🏗️ Current Projects
+
+* **CyberDigital S.A. de C.V.**: Founder and Lead Developer. A digital services and consulting firm providing comprehensive technology solutions.
+* **El Alux POS**: A specialized Point of Sale system for the retail footwear industry, designed to streamline inventory and sales management.
+* **Security Research**: Currently authoring a research paper on data vulnerability and security in Mérida, Yucatán.
+
+---
+
+### 📫 Let's Connect
+* 📍 Mérida, Yucatán, México.
+* 💼 **LinkedIn:** [EstebanTec](https://www.linkedin.com/in/esteban-tec-s%C3%A1nchez-8298793ab/)
+* 📧 **Email:** [estebantec84@gmail.com](mailto:estebantec84@gmail.com)
+
+---
 
 Last Edited on: 24/09/2025
 
-- ⚡ Fun fact: ...
--->
