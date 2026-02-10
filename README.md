@@ -2,7 +2,7 @@
 ![Purple Yellow Green Magenta Loud and Proud Gaming Twitch Panel](https://github.com/user-attachments/assets/fc8462c9-15f0-482a-9783-06becb4e404e)
 
 
-Hello there, I'm Bhavesh Lohana! I am currently completing my Bachelors in Computer Science. And when I am not working, you'll find me reading a sci-fi novel.
+Hello there, I'm Esteban Tec! I am currently completing my Bachelors in Computer Science. And when I am not working, you'll find me reading a sci-fi novel.
 
 ## Currently I'm:
 
