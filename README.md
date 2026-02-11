@@ -59,5 +59,5 @@ Hello there, I'm Esteban Tec! "I am passionate about Artificial Intelligence, IT
 
 ---
 
-Last Edited on: 24/09/2025
+Last Edited on: 09/02/2026
 
